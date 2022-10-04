@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pronapp"
+version = "0.1.0"
+description = "App for randomized pron experience"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+Kivy = "^2.1.0"
+kivymd = "^1.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
