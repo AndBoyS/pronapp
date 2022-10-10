@@ -1,15 +1,11 @@
-import kivy
-kivy.require('2.1.0')  # replace with your current kivy version !
-
-from kivy.app import App
-from kivy.uix.label import Label
+from kivymd.app import MDApp
+from kivymd.uix.label import MDLabel
 
 
-class MyApp(App):
-
+class MainApp(MDApp):
     def build(self):
-        return Label(text='Hello world')
+        return MDLabel(text="Hello, World", halign="center")
 
 
 if __name__ == '__main__':
-    MyApp().run()
+    MainApp().run()

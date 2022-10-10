@@ -9,13 +9,15 @@
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/close_code.h \
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_config_android.h \
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_assert.h \
-  /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_timer.h \
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_stdinc.h \
+  /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_log.h \
+  /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_timer.h \
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_error.h \
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/haptic/android/SDL_syshaptic_c.h \
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/haptic/android/../SDL_syshaptic.h \
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_haptic.h \
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_joystick.h \
+  /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_guid.h \
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/haptic/android/../../core/android/SDL_android.h \
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/haptic/android/../../core/android/../../SDL_internal.h \
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_system.h \
@@ -38,6 +40,8 @@
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/haptic/android/../../joystick/SDL_sysjoystick.h \
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/haptic/android/../../joystick/../SDL_internal.h \
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/haptic/android/../../joystick/SDL_joystick_c.h \
+  /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_gamecontroller.h \
+  /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_sensor.h \
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/haptic/android/../../joystick/android/SDL_sysjoystick_c.h \
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/haptic/android/../../joystick/android/../../SDL_internal.h \
   /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/haptic/android/../../joystick/android/../SDL_sysjoystick.h
@@ -60,9 +64,11 @@
 
 /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_assert.h:
 
-/Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_timer.h:
-
 /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_stdinc.h:
+
+/Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_log.h:
+
+/Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_timer.h:
 
 /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_error.h:
 
@@ -73,6 +79,8 @@
 /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_haptic.h:
 
 /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_joystick.h:
+
+/Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_guid.h:
 
 /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/haptic/android/../../core/android/SDL_android.h:
 
@@ -117,6 +125,10 @@
 /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/haptic/android/../../joystick/../SDL_internal.h:
 
 /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/haptic/android/../../joystick/SDL_joystick_c.h:
+
+/Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_gamecontroller.h:
+
+/Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/include/SDL_sensor.h:
 
 /Users/user/Main/aboba/pronapp-repo/.buildozer/android/platform/build-arm64-v8a_armeabi-v7a/build/bootstrap_builds/sdl2/jni/SDL/src/haptic/android/../../joystick/android/SDL_sysjoystick_c.h:
 
