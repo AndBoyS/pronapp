@@ -27,15 +27,14 @@ class MainApp(MDApp):
         self.theme_cls.theme_style = "Light"
         self.theme_cls.primary_palette = "Indigo"
         self.theme_cls.primary_hue = "A200"
-        self.theme_cls.material_style = "M3"
 
         return(
             MDScreen(
                 self.label,
                 MDIconButton(
-                    icon='circle-outline',
+                    icon='data/button.png',
                     icon_size=200,
-                    md_bg_color='#e9dff7',
+                    #md_bg_color='#e9dff7',
                     pos_hint={"center_x": 0.5, "center_y": 0.35},
                     on_press=self.generate_callback
                 )
