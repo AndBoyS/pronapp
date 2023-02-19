@@ -18,7 +18,7 @@ class MainApp(MDApp):
     # Список возможных результатов при нажатии кнопки
     data: List[str]
     # Сколько времени дается на апдейт соуса при запуске приложения
-    sauce_max_request_time: float = 5
+    sauce_max_request_time: float = 3
     # Инфа о последнем времени обновлении соуса
     sauce_info: str
 
@@ -90,7 +90,7 @@ class MainApp(MDApp):
         """
         Если получится, скачать новую версию sauce
         """
-        req = UrlRequestWithFailure(url=url, max_request_time=self.sauce_max_request_time)
+        req = UrlRequestWithFailure(url=url, timeout=self.sauce_max_request_time)
         req.wait(delay=0.1)
 
         if req.is_finished and req.resp_status == 200:
