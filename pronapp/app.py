@@ -2,10 +2,6 @@ import json
 import random
 from typing import List, Union, Dict
 
-import requests
-import time
-
-from kivy.network.urlrequest import UrlRequest
 from kivymd.app import MDApp
 from kivymd.uix.button import MDRectangleFlatButton, MDIconButton, MDFloatingActionButton
 from kivymd.uix.label import MDLabel
